@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome My Page for Data Analytics BootCamp
 ---
 
